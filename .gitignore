@@ -1,0 +1,11 @@
+*.o
+*.orig
+*.rej
+*.pyc
+*.tmp
+*.DS_Store
+*.jasper
+*.pdf
+*~
+.\#*
+/PCB/*-backups/
